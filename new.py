@@ -25,7 +25,7 @@ class Square(Shape):
 
     def perimeter(self):
         c=self.side*4
-        print("Perimeter of square is",c)
+        print("Perimeter of squarre is",c)
 
 circle = Circle(3)
 square = Square(2)
